@@ -244,4 +244,4 @@ This repository serves as the official landing page for Need for Speed Carbon. T
 **Get the most recent version of Need for Speed Carbon today!**
 
 ---
-**Last updated:** 2026-09-15 23:14:02 UTC
+**Last updated:** 2026-09-16 01:55:13 UTC
